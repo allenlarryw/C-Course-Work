@@ -1,0 +1,24 @@
+jan 1- 31
+
+feb 28  32-59 feb     feb - jan
+
+mar 31 60 - 90      march - feb  
+
+apr 30  91 - 120    april - march
+
+may 31 121 - 151   may - april 
+
+jun 30 152 - 181  jun - may
+
+jul 31 182 - 212 jul - jun 
+
+aug 31 213 243  aug - jul
+
+sep 30  244 - 273 sep - aug
+
+oct 31  274 - 304 oct - sep
+
+nov 30  305 - 334   nov -  oct
+                     
+dec 31 334 - 365   dec - nov
+
