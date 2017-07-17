@@ -162,7 +162,7 @@ int main() {
 
 	settingCargoShip.PrintInfo();
 
-	// delete the pointers  WHAT ?? THIS SAYS NOTHING ABOUT POINTERS IN CAPS SO YOU CAN SEE THIS , THE PROGRAM NEVER MENTIONS CREATING A POINTER EVER JUST DELETING IT ???
+	
 
 	return 0;
 }
